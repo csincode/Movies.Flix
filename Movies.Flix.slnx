@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GetAllMovies/GetAllMovies.csproj" />
+  <Project Path="GetMoviesDetail/GetMoviesDetail.csproj" />
+  <Project Path="PostDatabase/PostDatabase.csproj" />
+  <Project Path="PostDataStorage/PostDataStorage.csproj" />
+</Solution>
